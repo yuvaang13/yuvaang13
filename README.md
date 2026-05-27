@@ -63,6 +63,7 @@ Python calculator project with 100+ math functions and utilities.
 - Codex
 - Windsurf
 - Warp
+- Xcode
 
 ---
 
