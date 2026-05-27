@@ -1,16 +1,69 @@
-## Hi there 👋
 
-<!--
-**yuvaang13/yuvaang13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Math and Coding</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Student+Developer;Competitive+Mathematician;Interested+in+AI+and+ML;Building+Projects+and+Learning" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Interested in AI, machine learning, and competition math
+- Mainly working with Python and AI-related projects
+- Exploring RAG systems, APIs, and ML models
+- Competitive math student and builder
+
+---
+
+## Projects
+
+### Infinit AI
+AI-powered STEM tutoring project for K–8 students.
+
+Built with:
+- RAG concepts
+- Fine-tuning experiments
+- Grade-level adapted responses
+
+---
+
+### MonkMode
+Open-source iOS productivity app focused on reducing distractions and improving focus.
+
+---
+
+### Math Calculator
+Python calculator project with 100+ math functions and utilities.
+
+---
+
+# Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,matlab,arduino,postgres,docker,redis,nextjs,cloudflare,electron,fastapi,rust,github,git,vscode,apple,windows&perline=9" />
+  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white" height="50" />
+</p>
+
+### AI / ML
+- Scikit-learn
+- Pandas
+- Matplotlib
+- CNNs
+- Logistic Regression
+- APIs
+- Ollama
+- RAG Frameworks
+
+### Tools
+- Cursor
+- GitHub Copilot
+- Codex
+- Windsurf
+- Warp
+
+---
+
+## Contact
+
+📫 yuvaangulati7689@gmail.com
