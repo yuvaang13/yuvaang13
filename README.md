@@ -9,7 +9,7 @@
 
 ## About Me
 
-- Interested in AI, machine learning, and competition math
+- Interested in AI, machine learning, competition math, and robotics
 - Mainly working with Python and AI-related projects
 - Exploring RAG systems, APIs, and ML models
 - Competitive math student and builder
