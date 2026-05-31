@@ -64,6 +64,7 @@ Python calculator project with 100+ math functions and utilities.
 - Windsurf
 - Warp
 - Xcode
+- Vercel
 
 ---
 
