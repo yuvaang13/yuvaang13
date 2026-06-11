@@ -10,7 +10,7 @@
 ## About Me
 
 - Interested in AI, machine learning, competition math, and robotics
-- Mainly working with Python and AI-related projects
+- Mainly working with Python, Java, and AI-related projects
 - Exploring RAG systems, APIs, and ML models
 - Competitive math student and builder
 
