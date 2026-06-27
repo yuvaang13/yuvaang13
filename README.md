@@ -33,8 +33,8 @@ Open-source iOS productivity app focused on reducing distractions and improving 
 
 ---
 
-### Math Calculator
-Python calculator project with 100+ math functions and utilities.
+### MindGate
+An in progress open-sourced AI-powered laptop productivity app
 
 ---
 
