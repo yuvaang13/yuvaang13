@@ -41,7 +41,7 @@ An in progress open-sourced AI-powered laptop productivity app
 # Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,matlab,arduino,postgres,docker,redis,nextjs,cloudflare,electron,fastapi,rust,github,git,java,vscode,apple,windows&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,matlab,arduino,postgres,docker,redis,nextjs,cloudflare,electron,fastapi,rust,github,git,java,vscode,apple,windows,blender&perline=9" />
   <br><br>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white" height="40" />
