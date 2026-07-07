@@ -56,6 +56,7 @@ An in progress open-sourced AI-powered laptop productivity app
 - APIs
 - Ollama
 - RAG Frameworks
+- PyTorch
 
 ### Tools
 - Cursor
