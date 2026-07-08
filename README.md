@@ -71,4 +71,4 @@ An in progress open-sourced AI-powered laptop productivity app
 
 ## Contact
 
-📫 yuvaangulati7689@gmail.com
+yuvaangulati7689@gmail.com
