@@ -72,3 +72,9 @@ An in progress open-sourced AI-powered laptop productivity app
 ## Contact
 
 yuvaangulati7689@gmail.com
+
+---
+
+## Personal Website
+
+iamyuvaangulati.vercel.app 
