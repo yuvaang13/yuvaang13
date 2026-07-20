@@ -66,6 +66,7 @@ An in progress open-sourced AI-powered laptop productivity app
 - Warp
 - Xcode
 - Vercel
+- other stuff above
 
 ---
 
