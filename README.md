@@ -57,17 +57,6 @@ An in progress open-sourced AI-powered laptop productivity app
 - Ollama
 - RAG Frameworks
 - PyTorch
-
-### Tools
-- Cursor
-- GitHub Copilot
-- Codex
-- Windsurf
-- Warp
-- Xcode
-- Vercel
-- other stuff above
-
 ---
 
 ## Contact
