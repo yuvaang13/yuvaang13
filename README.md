@@ -28,8 +28,8 @@ Built with:
 
 ---
 
-### MonkMode
-Open-source iOS productivity app focused on reducing distractions and improving focus.
+### next-gen-reCAPTCHA
+Human verification for the AI era.
 
 ---
 
