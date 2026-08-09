@@ -28,7 +28,7 @@ Built with:
 
 ---
 
-### next-gen-reCAPTCHA
+### Verus
 Human verification for the AI era.
 
 ---
