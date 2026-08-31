@@ -34,7 +34,7 @@ Human verification for the AI era.
 ---
 
 ### MindGate
-An in progress open-sourced AI-powered laptop productivity app
+An open-sourced AI-powered laptop productivity app
 
 ---
 
