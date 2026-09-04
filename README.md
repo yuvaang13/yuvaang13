@@ -12,7 +12,7 @@ verus — human verification for the ai era
 mindgate — open-source productivity app             
 ai/ml projects — lots of experiments with models, apis, and rag             
 infinit ai - an ai-powered stem tutor built to make learning more personalized and accessible.             
-competition math — prob too many math problems
+competition math — shi ton of math problems
 
 mostly using **Python, Java, PyTorch, and whatever else I need.**
 
