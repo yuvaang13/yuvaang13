@@ -1,70 +1,20 @@
-
-<h1 align="center">Hey, I'm Yuvaan</h1>
+<h1 align="center">wsp, im yuvaan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Student+Builder;Competitive+Mathematician;Interested+in+AI+and+ML;Building+Projects+and+Learning" />
+  student • builder • math/ai nerd
 </p>
 
----
+im an 8th grader who likes building random shi with code, doing competition math, and messing around with AI/ML and robotics.
 
-## About Me
+some stuff i've built/done:
 
-- Interested in AI, machine learning, competition math, and robotics
-- Mainly working with Python, Java, and AI-related projects
-- Exploring RAG systems, APIs, and ML models
-- Competitive math student and builder
+verus — human verification for the ai era
+mindgate — open-source productivity app
+ai/ml projects — lots of experiments with models, apis, and rag
+infinit ai - an ai-powered stem tutor built to make learning more personalized and accessible.
+competition math — probably way too many math problems
 
----
+mostly using **Python, Java, PyTorch, and whatever else I need.**
 
-## Projects
-
-### Infinit AI
-AI-powered STEM tutoring project for K–8 students.
-
-Built with:
-- RAG concepts
-- Fine-tuning experiments
-- Grade-level adapted responses
-
----
-
-### Verus
-Human verification for the AI era.
-
----
-
-### MindGate
-An open-sourced AI-powered laptop productivity app
-
----
-
-# Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,matlab,arduino,postgres,docker,redis,nextjs,cloudflare,electron,fastapi,rust,github,git,java,vscode,apple,windows,blender,supabase&perline=9" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white" height="40" />
-</p>
-
-### AI / ML
-- Scikit-learn
-- Pandas
-- Matplotlib
-- CNNs
-- Logistic Regression
-- APIs
-- Ollama
-- RAG Frameworks
-- PyTorch
----
-
-## Contact
-
-yuvaangulati7689@gmail.com
-
----
-
-## Personal Website
-
-[iamyuvaangulati.vercel.app ](https://iamyuvaangulati.vercel.app/) (better now)
+🌐 [iamyuvaangulati.vercel.app](https://iamyuvaangulati.vercel.app/)
+📫 [yuvaangulati7689@gmail.com](mailto:yuvaangulati7689@gmail.com)
