@@ -14,7 +14,7 @@ ai/ml projects — lots of experiments with models, apis, and rag
 infinit ai - an ai-powered stem tutor built to make learning more personalized and accessible.             
 competition math — shi ton of math problems
 
-mostly using **Python, Java, PyTorch, and whatever else I need.**
+mostly using **Python, Java, PyTorch, and smth else**
 
 🌐 [iamyuvaangulati.vercel.app](https://iamyuvaangulati.vercel.app/)
 📫 [yuvaangulati7689@gmail.com](mailto:yuvaangulati7689@gmail.com)
