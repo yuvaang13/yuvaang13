@@ -1,7 +1,7 @@
 <h1 align="center">wsp, im yuvaan 👋</h1>
 
 <p align="center">
-  student • builder • math/ai nerd
+  student • builder • math/ai sweat
 </p>
 
 im an 8th grader who likes building random shi with code, doing competition math, and messing around with AI/ML and robotics.
