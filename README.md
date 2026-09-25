@@ -1,4 +1,4 @@
-<h1 align="center">wsp, im yuvaan 👋</h1>
+<h1 align="center">sup, im yuvaan 👋</h1>
 
 <p align="center">
   student • builder • math/ai sweat
